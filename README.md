@@ -1,4 +1,3 @@
-GerenciamentoContatos
 O projeto "GerenciamentoContatos" é uma aplicação Java que implementa um sistema simples para gerenciar contatos. Ele permite que os usuários adicionem, busquem, removam e listem contatos de forma eficiente, utilizando uma estrutura de dados de lista encadeada. 
 
 Estrutura do Projeto
